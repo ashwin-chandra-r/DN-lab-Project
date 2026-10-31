@@ -1,0 +1,7 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\Users\ashwi\OneDrive\Documents\LTspice\Sallen-Key_LPF_Channel1_TB.net
+Start Time: Sat Oct 31 14:47:20 2026
+C:\Users\ashwi\OneDrive\Documents\LTspice\Sallen-Key_LPF_Channel1_TB.net(11): Node or model name expected.
+
+M1 VCC N003 source source 2N7000
+                          ^^^^^^
